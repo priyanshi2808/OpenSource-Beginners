@@ -4,7 +4,14 @@ This repository is developed to help beginners kick-start their open-source cont
 ## Fork the Repository
 Forking a repository creates a copy of this repository in your account 
 This can be done by clicking on the top right corner of this page
-<img>
+
+<img>![ss1](https://github.com/Rajdeep1311/OpenSource-Beginners/assets/113296626/22685871-1259-49d0-9dea-73e5e9440ccf)
+
+<img>![ss2](https://github.com/Rajdeep1311/OpenSource-Beginners/assets/113296626/6d95b58c-a388-437f-9cf1-ec97ffcf2ac1)
+
+<img>![ss3](https://github.com/Rajdeep1311/OpenSource-Beginners/assets/113296626/4071dc23-26e0-41ad-889f-295f786a5956)
+
+
 
 ## Clone the Repository
 To get started with contributing to this project, you need to clone the repository to your local machine. This will create a local copy of the project that you can work on.
@@ -19,6 +26,13 @@ Clone the repository by running the following command:
 git clone https://github.com/your-username/OpenSource-Beginners.git
 ```
 (Replace your-username with your GitHub username)
+
+<img>![ss4](https://github.com/Rajdeep1311/OpenSource-Beginners/assets/113296626/f8b50d43-1b6b-4d71-bb80-8f53ad5dd3c7)
+
+<img>![ss5](https://github.com/Rajdeep1311/OpenSource-Beginners/assets/113296626/f2f7ed1c-74fd-4664-b4c0-b7288b7ea00f)
+
+
+
 
 ## Create a Branch
 Create a new branch for your changes. This helps keep your changes isolated from the main. Navigate to the project Directory and run command:
